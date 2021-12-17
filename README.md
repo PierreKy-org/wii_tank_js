@@ -13,5 +13,7 @@ Pour se déplacer :
 - la souris pour viser
 
 Le jeu se lance sur un serveur local et il contient 3 petits niveau 
+
 Des commentaires sont dans le code pour expliquer ce que je fais.
+
 Merci et bon jeu.
