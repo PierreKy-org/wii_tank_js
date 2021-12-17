@@ -1,0 +1,17 @@
+#mycanvas {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border : black 2px solid;
+}
+
+#btn{
+    margin: 0 auto;
+  width: 100px;
+  height: 100px;
+  background-color: #ccc;
+  border-radius: 3px;
+  display: none;
+}
